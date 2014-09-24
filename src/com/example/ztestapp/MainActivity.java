@@ -18,7 +18,7 @@ public class MainActivity extends Activity
 {
     
     private TextView content;
-    private int changeView = 999;
+    private int changeView = 9999;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
